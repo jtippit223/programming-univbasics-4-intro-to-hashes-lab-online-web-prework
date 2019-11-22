@@ -1,29 +1,29 @@
 def new_hash
-  hash1 {
+  hash1 = {
     
   }
 end
 
 def my_hash
-  hash2 {
+  hash2 = {
     price: 2
   }
 end
 
 def pioneer
-  pioneer {
+  pioneer = {
     :name => Grace Hopper
   }
 end
 
 def id_generator
-  hash3 {
+  hash3 = {
     :id => 1
   }
 end
 
 def my_hash_creator(key, value)
-  creator{
+  creator = {
     :my_hash_creator(key) => my_hash_creator(value) 
     
   }
@@ -31,6 +31,9 @@ end
 
 def read_from_hash(hash, key)
   # return the correct value using the hash and key parameters
+  hash5 = {
+    hash
+  }
   
 end
 
