@@ -3,9 +3,7 @@ def new_hash
 end
 
 def my_hash
-  hash2 = {
-    price: 2
-  }
+  
 end
 
 def pioneer
