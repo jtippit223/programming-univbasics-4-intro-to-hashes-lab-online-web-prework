@@ -3,19 +3,21 @@ def new_hash
 end
 
 def my_hash
-  {name: "Jesse Tippit", 
+  {
+    name: "Jesse Tippit"
+  }
   
 end
 
 def pioneer
-  pioneer = {
-    :name => "Grace Hopper"
+  {
+    name: 'Grace Hopper'
   }
 end
 
 def id_generator
-  hash3 = {
-    :id => 1
+  {
+    id = 1
   }
 end
 
