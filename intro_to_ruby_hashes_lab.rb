@@ -31,8 +31,8 @@ end
 
 def read_from_hash(hash, key)
   # return the correct value using the hash and key parameters
-  hash5 = {
-    hash
+  read_from_hash(hash) = {
+    :read_from_hash(key)
   }
   
 end
